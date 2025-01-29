@@ -1,4 +1,6 @@
-# just-the-docs-template
+# MSU Language Acquisition Online Documentation
+
+This contains online documentation for the MSU Language Acquisition Lab
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 

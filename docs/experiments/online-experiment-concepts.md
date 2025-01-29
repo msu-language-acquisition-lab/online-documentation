@@ -2,6 +2,7 @@
 ---
 title: 'Online experiment basics'
 layout: default
+parent: How to build and run experiments online
 nav_enabled: true
 ---
 

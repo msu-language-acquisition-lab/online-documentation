@@ -1,9 +1,10 @@
 
 
 ---
-title: 'Understanding how an experiment works'
+title: Understanding how an experiment works
 layout: default
 nav_enabled: true
+parent: How to build and run experiments online
 ---
 
 # The jsPSych framework

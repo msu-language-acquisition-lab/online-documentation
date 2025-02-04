@@ -1,4 +1,3 @@
-
 ---
 title: 'Tools for building an online experiment'
 layout: default

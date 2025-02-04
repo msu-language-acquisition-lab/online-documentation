@@ -1,5 +1,3 @@
-
-
 ---
 title: Understanding how an experiment works
 layout: default

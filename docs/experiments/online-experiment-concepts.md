@@ -1,4 +1,3 @@
-
 ---
 title: Online experiment basics
 layout: default

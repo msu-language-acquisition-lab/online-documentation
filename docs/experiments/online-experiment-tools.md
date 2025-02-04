@@ -3,7 +3,7 @@
 title: 'Tools for building an online experiment'
 layout: default
 parent: How to build and run experiments online
-nav_enabled: true
+nav_order: 2
 ---
 
 This guide outlines the tools needed to build an online experiment using `jsPsych`.

@@ -1,9 +1,9 @@
 
 ---
-title: 'Online experiment basics'
+title: Online experiment basics
 layout: default
 parent: How to build and run experiments online
-nav_enabled: true
+nav_order: 1
 ---
 
 This document outlines the basic concepts of how an online experiment works, and the different pieces you need to create in order to run one.

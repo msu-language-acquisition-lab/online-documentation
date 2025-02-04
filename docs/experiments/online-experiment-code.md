@@ -3,7 +3,7 @@
 ---
 title: Understanding how an experiment works
 layout: default
-nav_enabled: true
+nav_order: 3
 parent: How to build and run experiments online
 ---
 

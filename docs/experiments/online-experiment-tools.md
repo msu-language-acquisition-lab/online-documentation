@@ -35,19 +35,19 @@ GitHub is a site which allow you to do collaborative coding using the version co
 
  Go to Google Sheets and choose Get Add-ons from the Add-ons menu:
 
- ![google](/assets/images/GoogleSheets1.png)
+ ![google](/online-documentation/assets/images/GoogleSheets1.png)
 
  Choose Get Add-ons from the dropdown menu.
 
- ![addons](/assets/images/GoogleSheets2.png)
+ ![addons](/online-documentation/assets/images/GoogleSheets2.png)
 
  Search for Export Sheet Data and install it.
 
- ![export-sheet-data](/assets/images/GoogleSheets3.png)
+ ![export-sheet-data](/online-documentation/assets/images/GoogleSheets3.png)
 
  Once you have installed it, your dropdown menu should look like this:
 
- ![dropdown](/assets/images/GoogleSheets4.png)
+ ![dropdown](/online-documentation/assets/images/GoogleSheets4.png)
 
 
 ## jsPsych library

@@ -51,7 +51,8 @@ The basic steps of designing and running an experiment are the following. Steps 
  13. Open the experiment up for participants.
  14. Download collected data for analysis.
 
- ## Github Integration 
+
+## Github Integration 
 
  Once you've become better acquainted with using GitHub, `cognition.run` has excellent direct integration of a GitHub repository with your experiment. This automatically updates the experiment code on `cognition.run` whenever you make changes to a linked repository.  Here are the instructions on how to do this:
 

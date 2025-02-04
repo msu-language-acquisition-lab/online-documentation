@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://www.msuacquisition.org/online-documentation/
 
-logo: "/online-documentation/assets/images/lab-logo-with-text.png"
+logo: "/assets/images/lab-logo-with-text.png"
 
 defaults:
   - scope:

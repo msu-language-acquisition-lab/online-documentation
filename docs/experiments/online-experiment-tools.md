@@ -1,6 +1,5 @@
 ---
-title: 'Tools for building an online experiment'
-layout: default
+title: Tools for building an online experiment
 parent: How to build and run experiments online
 nav_order: 2
 ---
@@ -36,19 +35,19 @@ GitHub is a site which allow you to do collaborative coding using the version co
 
  Go to Google Sheets and choose Get Add-ons from the Add-ons menu:
 
- ![google](images/GoogleSheets1.png){ width=50% }\
+ ![google](assets/images/GoogleSheets1.png){ width=50% }\
 
  Choose Get Add-ons from the dropdown menu.
 
- ![addons](images/GoogleSheets2.png){ width=30% }\
+ ![addons](assets/images/GoogleSheets2.png){ width=30% }\
 
  Search for Export Sheet Data and install it.
 
- ![export-sheet-data](images/GoogleSheets3.png){ width=50% }\
+ ![export-sheet-data](assets/images/GoogleSheets3.png){ width=50% }\
 
  Once you have installed it, your dropdown menu should look like this:
 
- ![dropdown](images/GoogleSheets4.png){ width=30% }\
+ ![dropdown](assets/images/GoogleSheets4.png){ width=30% }\
 
 
 ## jsPsych library

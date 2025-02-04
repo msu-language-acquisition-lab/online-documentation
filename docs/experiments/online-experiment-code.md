@@ -10,7 +10,7 @@ parent: How to build and run experiments online
 
 Experiments are written in Javascript using the jsPsych library of plugins. The basic model of the code is called the `timeline`, and it's just as it sounds: each component of the experiment happens sequentially in time, and when you code the experiment, you "push" the relevant components onto the timeline.  Conceptually then, a typical  experiment that we would run in the lab looks like the diagram below.
 
-![experiment-code-design](assets/images/experiment-code-design.png)
+![experiment-code-design](/assets/images/experiment-code-design.png)
 
 Of course things can get more complicated than that, depending on the actual experiment, but it's useful to keep this basic model in mind as you read through the code of any particular experiment that you are building.
 

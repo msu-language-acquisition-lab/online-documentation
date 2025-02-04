@@ -43,11 +43,11 @@ GitHub is a site which allow you to do collaborative coding using the version co
 
  Search for Export Sheet Data and install it.
 
- ![export-sheet-data](assets/images/GoogleSheets3.png){ width=50% }\
+ ![export-sheet-data](assets/images/GoogleSheets3.png)
 
  Once you have installed it, your dropdown menu should look like this:
 
- ![dropdown](assets/images/GoogleSheets4.png){ width=30% }\
+ ![dropdown](assets/images/GoogleSheets4.png)
 
 
 ## jsPsych library

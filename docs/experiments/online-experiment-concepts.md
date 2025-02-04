@@ -12,7 +12,7 @@ Javascript is a language that your browser interprets in order to run the experi
 
 Web pages are displayed using a combination of HTML (Hypertext Markup Language) and Javascript. The formatting of elements in displayed using HTML is determined by a separate stylesheet language called CSS (Cascading Stylesheets). Although you don't need to be an expert in any of these three components, it's important to understand how they work conceptually and what parts of the experiment are determined by them.  Schematically they look like this:
 
-![overview](assets/images/overview.png){ width=50% }\
+![overview](assets/images/overview.png)
 
 # Local and online versions of an experiments
 
@@ -22,7 +22,7 @@ The following diagram shows all of the pieces that your experiment will need. If
 
 When you run on `cognition.run`, you will add only the `.js` and `.css` files plus any additional files; you won't use the `experiment.html` file.
 
-![experiment](assets/images/experiment.png){ width=50% }\
+![experiment](assets/images/experiment.png)
 
 Notice that there are two versions of the stimulus file: one is a CSV file and the other is a `.js` file. The `.js` file is the one that is used by the experiment code, but it will be generated from a CSV file which you create using Google Sheets. The actual names of these files don't matter; I've used `experiment`, `stimulus` and `image-file` as examples.
 

@@ -68,6 +68,6 @@ GitHub is a site which allow you to do collaborative coding using the version co
 
   - [Link to cognition.run](https://cognition.run)
   
- ## JATOS server
+## JATOS server
  
  More complex experiments are run on the lab’s experiment server. The coding of the experiment is still using jsPsych, but with some differences. It’s best to learn using `cognition.run` before learning how to code an experiment for the JATOS server.

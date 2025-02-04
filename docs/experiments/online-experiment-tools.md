@@ -24,7 +24,9 @@ it, I assume you know enough about coding already to adapt. You can download VSC
 
 ## GitHub
 
-GitHub is a site which allow you to do collaborative coding using the version control system Git. All of the lab experiment code will be hosted on the lab GitHub account. It is therefore important once you begin to code an actual experiment that you have a GitHub account, and understand how to use Git.
+GitHub is a site which allow you to do collaborative coding using the version control system Git. All of the lab experiment code will be hosted on the lab GitHub account. It is therefore important once you begin to code an actual experiment that you have a GitHub account, and understand how to use basic Git functions. Most of what you will need to do in the beginning can be done from within VSCode directly.
+
+ - [Link to GitHub](https://github.com)
 
 ## Google Sheets JSON converter
 
@@ -54,7 +56,11 @@ GitHub is a site which allow you to do collaborative coding using the version co
 
  Experiments are coded in Javascript, and use the free jsPsych library. If you are building an experiment from one of the existing lab experiments, you should simply copy that experiment. If you are building a brand new experiment, you should get the latest release of the jsPsych library here:
 
- - [Download latest jsPSych release](https://github.com/jspsych/jsPsych/releases)
+ - [Download latest jsPsych release](https://www.github.com/jspsych/jspsych/releases/latest/download/jspsych.zip)
+
+ You should also bookmark the jsPSych documentation, since you'll be referring to it a lot.
+
+  - [jsPsych documentation](https://jsPsych.org)
 
 ## Cognition.run account
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: How to build and run experiments online
 parent: MSU Language Acquisition Lab Online Documentation
 ---

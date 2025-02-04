@@ -16,7 +16,11 @@ Web pages are displayed using a combination of HTML (Hypertext Markup Language) 
 
 # Local and online versions of an experiments
 
-We use the `cognition.run` website to host our experiments. This website uses jsPsych to generate the web pages that constitute the experiment. This means that it only requires the experiment code, stimulus file and whatever other files are used in the experiment (e.g. image files, audio files or video files). However, when we a building an experiment in the beginning, it's best to work on a local copy of the experiment, in which case we also need to provide the base HTML file to test the experiment.
+We use two different sites to run experiments depending on their complexity. For simple experiements, we use the `cognition.run` website. This website uses jsPsych to generate the web pages that constitute the experiment. This means that it only requires the experiment code, stimulus file and whatever other files are used in the experiment (e.g. image files, audio files or video files). It also has very nice integration with GitHub for updating the experiment when the code is changed. 
+
+For more complex experiments, we use the lab JATOS server. The experiments themselves are the same, but the development and deployment process is a bit more complicated. 
+
+Either way, however, when we are building an experiment in the beginning, it's helpful to work on a local copy of the experiment, in which case we also need to provide the base HTML file to test the experiment.
 
 The following diagram shows all of the pieces that your experiment will need. If you are just running a task with only written materials, you will only have a single stimulus file. If you are running an experiment that requires images or videos or audio files, you will have both a stimulus file along with all of the images/audio/video files.
 
@@ -46,3 +50,9 @@ The basic steps of designing and running an experiment are the following. Steps 
  12. Test the experiment on `cognition.run`
  13. Open the experiment up for participants.
  14. Download collected data for analysis.
+
+ ## Github Integration 
+
+ Once you've become better acquainted with using GitHub, `cognition.run` has excellent direct integration of a GitHub repository with your experiment. This automatically updates the experiment code on `cognition.run` whenever you make changes to a linked repository.  Here are the instructions on how to do this:
+
+  - [GitHub Integration for `cognition.run`](https://docs.cognition.run/digging-deeper/github-integration)

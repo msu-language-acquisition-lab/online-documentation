@@ -42,7 +42,7 @@ In this section we'll break down some of code of the basic written acceptability
 
 ## The experiment timeline
 
-The basis of all the jsPSych experiments is the *timeline*, this is an array of elements where each element of the array corresponds to one of the modules of the experiment. In our acceptabilty judgement task experiment, the main timeline will therefore ultimately look like this:
+The basis of all the jsPSych experiments is the *timeline*, this is an array of elements where each element of the array corresponds to one of the modules of the experiment. In our acceptabilty judgement task experiment, the main timeline will therefore ultimately look like this.  In our sample experiment here we will not have a demographic survey or an explicit end task, however. 
 
     timeline = [demographic_survey, instructions, judgement_task, end_task]
 
@@ -60,7 +60,7 @@ var jsPsych = initJsPsych({
   var timeline = [];
 ```
 
-Here we supply two parameters to the initializtion routine: we set a default inter-trial interval `default_iti` to 250 milliseconds, and specify what to do at the end of the experiment. The function `jsPsych.data.displayData()` displays the data collected in `json` format. This would not be used for an actual experiment, but is useful as a debugging device when developing an experiment, so we include it here. 
+Here we supply two parameters to the initialization routine: we set a default inter-trial interval `default_iti` to 250 milliseconds, and specify what to do at the end of the experiment. The function `jsPsych.data.displayData()` displays the data collected in `json` format. This would not be used for an actual experiment, but is useful as a debugging device when developing an experiment, so we include it here. 
 
 The `timeline` variable is defined as an array `[]`.
 
